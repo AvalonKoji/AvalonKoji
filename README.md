@@ -7,7 +7,7 @@
   </p>
 
   <a href="https://github.com/AvalonKoji">
-    <img src="https://github.com/user-attachments/assets/720a00cd-1419-4d89-968a-276499b14b0c" width="80%" height="350" style="display:block; object-fit: cover; border-radius: 8px;" />
+    <img src="https://github.com/user-attachments/assets/720a00cd-1419-4d89-968a-276499b14b0c" width="80%" height="350" style="display:block; object-fit: cover; border-radius: 10px;" />
   </a>
   
   <br />
