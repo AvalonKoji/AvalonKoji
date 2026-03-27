@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-    <font size="6"><i>𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 𝓂𝓎 𝒫𝓇𝑜𝒻𝒾𝓁𝑒</i></font>
+    <font size="6">~ ❤️ 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 ❤️ ~</font>
   </p>
 
   <a href="https://github.com/AvalonKoji">
