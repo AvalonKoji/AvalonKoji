@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/AvalonKoji">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=D3D3D3&height=100&section=header&font=Dancing+Script&fontSize=45&fontColor=4A4A4A&text=Welcome%20to%20my%20Profile&fontAlignY=45&v=505" width="80%" style="display:block; margin:0;" />
+    <img src="https://capsule-render.vercel.app/api?type=egg&color=D3D3D3&height=100&font=Yellowtail&fontSize=50&fontColor=4A4A4A&text=Welcome%20to%20my%20Profile&fontAlignY=45&v=999" width="80%" style="display:block; margin:0;" />
   </a>
   <a href="https://github.com/AvalonKoji">
     <img src="https://github.com/user-attachments/assets/720a00cd-1419-4d89-968a-276499b14b0c" width="80%" height="350" style="display:block; object-fit: cover; margin:0; margin-top:-1px;" />
