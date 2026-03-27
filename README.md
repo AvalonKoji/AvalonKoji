@@ -1,5 +1,5 @@
 <div align="center">
-  <div style="font-size: 32px; font-family: 'Georgia', serif; margin-bottom: 10px;">
+  <div style="font-size: 1000px; font-family: 'Georgia', serif; margin-bottom: 10px;">
     <i>𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 𝓂𝓎 𝒫𝓇𝑜𝒻𝒾𝓁𝑒</i>
   </div>
   
