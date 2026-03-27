@@ -1,10 +1,13 @@
 <div align="center">
   <br />
-  <h1><i><font face="Georgia">𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 𝓂𝓎 𝒫𝓇𝑜𝒻𝒾𝓁𝑒</font></i></h1>
-  <hr width="80%" color="#D3D3D3" size="1" />
+  <h1>𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 𝓂𝓎 𝒫𝓇𝑜𝒻𝒾𝓁𝑒</h1>
+  
+  <p align="center">
+    <img src="https://i.imgur.com/vH9778G.png" width="800" height="2">
+  </p>
 
   <a href="https://github.com/AvalonKoji">
-    <img src="https://github.com/user-attachments/assets/720a00cd-1419-4d89-968a-276499b14b0c" width="80%" height="350" style="display:block; object-fit: cover; border-radius: 10px;" />
+    <img src="https://github.com/user-attachments/assets/720a00cd-1419-4d89-968a-276499b14b0c" width="80%" height="350" style="display:block; object-fit: cover; border-radius: 8px;" />
   </a>
   
   <br />
