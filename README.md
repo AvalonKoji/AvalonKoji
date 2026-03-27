@@ -11,7 +11,7 @@
 
 <br />
 
-<h2> About 私自身 </h2>
+<h2> About Myself </h2>
 
 <table border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
   <tr>
@@ -20,18 +20,13 @@
     </td>
     <td align="left" valign="top" style="padding-left:25px; border: none;">
       <font face="monospace" size="3">
-        Profile Version: 3.2 <br />
+        "The System Uses Me, and I Use the System."<br />
         -------------------------------------------<br />
-        <b>Level:</b> 十五<br />
+        <b>Level:</b> 12<br />
         -------------------------------------------<br />
-        <b>Username:</b> Debasish Ray (デバシッシュ・レイ)<br />
-        <b>WhoamI:</b> Graduated Computer Science Student<br />
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(コンピュータサイエンスの学生)<br />
-        <b>OS:</b> Win 11 Pro, Ubuntu 24.04 LTS, Debian OS<br />
-        <b>Shell:</b> PowerShell v5.1.22<br />
-        <b>Terminal:</b> Visual Studio Code<br /><br />
-        <b>Location:</b> Chennai<br />
-        <b>Education:</b> SRM IST, KTR<br /><br />
+        <b>Username:</b>AvalonKoji but my close friends call me Avalon<br />
+        <b>WhoamI:</b>CyberSecurity and Linux enthusiast<br />
+        <b>Location:</b>Birmingham, UK <br /
         <b>Interests:</b><br />
         &nbsp;&nbsp;• IoT Development (Arduino, RPi)<br />
         &nbsp;&nbsp;• Web Development (Back-End)<br />
@@ -42,7 +37,7 @@
         <b>Languages:</b> C++, JS, C, Python<br />
         <b>Fav_Subject:</b> Computer Networks, PCB Design<br />
         -------------------------------------------<br />
-        <i>"自分が立っている場所が頂点だと決めたら、私は決して動かない。"</i>
+        <i>"I Am The Record Of Your Struggles, The Evidence Of Your Resistance, And The Reward Of Your Sufferings. I Am Death, I Am Eternal Rest, I Am Terror."</i>
       </font>
     </td>
   </tr>
