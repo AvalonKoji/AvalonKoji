@@ -1,14 +1,14 @@
 <div align="center">
-  <div style="font-size: 1000px; font-family: 'Georgia', serif; margin-bottom: 10px;">
-    <i>𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 𝓂𝓎 𝒫𝓇𝑜𝒻𝒾𝓁𝑒</i>
-  </div>
+  <a href="https://github.com/AvalonKoji">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=80&section=header&text=𝒲𝑒𝓁𝒸𝑜𝓂𝑒%20𝓉𝑜%20𝓂𝓎%20𝒫𝓇𝑜𝒻𝒾𝓁𝑒&fontSize=45&fontColor=333333&fontAlignY=50&animation=fadeIn&v=1001" width="80%" style="display:block; margin:0;" />
+  </a>
   
   <p align="center" style="margin: 0;">
     <img src="https://i.imgur.com/vH9778G.png" width="80%" height="1">
   </p>
 
   <a href="https://github.com/AvalonKoji">
-    <img src="https://github.com/user-attachments/assets/720a00cd-1419-4d89-968a-276499b14b0c" width="80%" height="350" style="display:block; object-fit: cover; border-radius: 10px; margin-top: 10px;" />
+    <img src="https://github.com/user-attachments/assets/720a00cd-1419-4d89-968a-276499b14b0c" width="80%" height="350" style="display:block; object-fit: cover; border-radius: 10px; margin-top: 5px;" />
   </a>
   
   <br />
