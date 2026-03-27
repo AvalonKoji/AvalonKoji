@@ -1,10 +1,10 @@
 <div align="center">
   <a href="https://github.com/AvalonKoji">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=80&section=header&text=𝒲𝑒𝓁𝒸𝑜𝓂𝑒%20𝓉𝑜%20𝓂𝓎%20𝒫𝓇𝑜𝒻𝒾𝓁𝑒&fontSize=30&fontColor=333333&fontAlignY=50&animation=fadeIn&v=1001" width="80%" style="display:block; margin:0;" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=80&section=header&text=𝒲𝑒𝓁𝒸𝑜𝓂𝑒%20𝓉𝑜%20𝓂𝓎%20𝒫𝓇𝑜𝒻𝒾𝓁𝑒&fontSize=55&fontColor=1A1A1A&fontAlignY=50&animation=fadeIn&stroke=1A1A1A&strokeWidth=1&v=1002" width="80%" style="display:block; margin:0;" />
   </a>
   
-  <p align="center" style="margin: 0;">
-    <img src="https://i.imgur.com/vH9778G.png" width="80%" height="1">
+  <p align="center" style="margin: 0; line-height: 0;">
+    <img src="https://i.imgur.com/vH9778G.png" width="80%" height="1" style="display: block; margin: 0 auto;">
   </p>
 
   <a href="https://github.com/AvalonKoji">
