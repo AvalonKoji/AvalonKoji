@@ -13,12 +13,12 @@
 
 <h2> About 私自身 </h2>
 
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<table border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
   <tr>
-    <td width="280" align="left" valign="top">
-      <img src="https://github.com/user-attachments/assets/679d7e8c-cb16-4f46-b832-daa703b5fa21" width="260" style="display:block; border-radius:10px;" />
+    <td width="300" align="left" valign="top" style="border: none;">
+      <img src="https://github.com/user-attachments/assets/679d7e8c-cb16-4f46-b832-daa703b5fa21" width="280" style="display:block; border-radius:10px;" />
     </td>
-    <td align="left" valign="top" style="padding-left:20px;">
+    <td align="left" valign="top" style="padding-left:25px; border: none;">
       <font face="monospace" size="3">
         Profile Version: 3.2 <br />
         -------------------------------------------<br />
