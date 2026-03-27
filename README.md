@@ -3,7 +3,7 @@
   <h1>𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 𝓂𝓎 𝒫𝓇𝑜𝒻𝒾𝓁𝑒</h1>
   
   <p align="center">
-    <img src="https://i.imgur.com/vH9778G.png" width="800" height="2">
+    <img src="https://i.imgur.com/vH9778G.png" width="80%" height="1">
   </p>
 
   <a href="https://github.com/AvalonKoji">
