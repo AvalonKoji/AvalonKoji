@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/AvalonKoji">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=100&section=header&text=𝒲𝑒𝓁𝒸𝑜𝓂𝑒%20𝓉𝑜%20𝓂𝓎%20𝒫𝓇𝑜𝒻𝒾𝓁𝑒&fontSize=55&fontColor=1A1A1A&fontAlignY=50&animation=fadeIn&stroke=1A1A1A&strokeWidth=1&v=5000" width="80%" style="display:block; margin:0;" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header&text=𝒲𝑒𝓁𝒸𝑜𝓂𝑒%20𝓉𝑜%20𝓂𝓎%20𝒫𝓇𝑜𝒻𝒾𝓁𝑒&fontSize=50&fontColor=1A1A1A&fontAlignY=35&animation=fadeIn&stroke=1A1A1A&strokeWidth=1&v=9999" width="85%" style="display:block; margin:0;" />
   </a>
   
   <p align="center" style="margin: 0; line-height: 0;">
@@ -8,7 +8,7 @@
   </p>
 
   <a href="https://github.com/AvalonKoji">
-    <img src="https://github.com/user-attachments/assets/720a00cd-1419-4d89-968a-276499b14b0c" width="80%" height="250" style="display:block; object-fit: cover; border-radius: 10px; margin-top: 10px;" />
+    <img src="https://github.com/user-attachments/assets/720a00cd-1419-4d89-968a-276499b14b0c" width="80%" height="350" style="display:block; object-fit: cover; border-radius: 10px; margin-top: 10px;" />
   </a>
   
   <br />
