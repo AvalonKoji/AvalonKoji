@@ -11,7 +11,7 @@
 
 <br />
 
-<h2> About Myself </h2>
+<h2>⚡ [ 𝓐𝓫𝓸𝓾𝓽 𝓜𝔂𝓼𝓮𝓵𝓯 ] ⚡</h2>
 
 <table border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
   <tr>
