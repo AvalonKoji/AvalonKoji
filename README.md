@@ -20,24 +20,28 @@
     </td>
     <td align="left" valign="top" style="padding-left:25px; border: none;">
       <font face="monospace" size="3">
-        "The System Uses Me, and I Use the System."<br />
+       【 !! 】"The System Uses Me, and I Use the System."【 !! 】<br />
         -------------------------------------------<br />
-        <b>Level:</b> 12<br />
+        <b>Level:</b>🔺12<br />
         -------------------------------------------<br />
-        <b>Username:</b> AvalonKoji (Avalon)<br />
-        <b>WhoamI:</b> CyberSecurity and Linux enthusiast<br />
+        <b>Username:</b> AvalonMisfit (Avalon)<br />
+        <b>Who am I:</b> CyberSecurity and Linux enthusiast<br />
         <b>Location:</b> Birmingham, UK <br />
-        <b>Interests:</b><br />
-        &nbsp;&nbsp;•🔍 <b>Digital Forensics:</b> Incident Response & Data Recovery<br/>
-        &nbsp;&nbsp;• 🛡️ <b>Network Security:</b> Hardening Protocols & Analysis<br />
-        &nbsp;&nbsp;• 🐧 <b>Linux Internals:</b> System Optimization & Shell Scripting<br />
-        &nbsp;&nbsp;• 🤖 <b>Automation:</b> Python for Security & Forensics Tooling<br />
-        <b>Hobbies:</b> Reading LNs, Programming And Chess<br />
-        <b>Learning:</b>Linux And Python<br />
-        <b>Languages:</b><br />
-        <b>Favourite Subjects:</b> Information Technology And Psychology<br />
         -------------------------------------------<br />
-        <i>"I Am The Record Of Your Struggles, The Evidence Of Your Resistance, And The Reward Of Your Sufferings. I Am Death, I Am Eternal Rest, I Am Terror."</i>
+        <b>Interests:</b><br />
+        &nbsp;&nbsp;•🔍<b>Digital Forensics:</b> Incident Response & Data Recovery<br/>
+        &nbsp;&nbsp;•🛡️<b>Network Security:</b> Hardening Protocols & Analysis<br />
+        &nbsp;&nbsp;•🐧<b>Linux Internals:</b> System Optimization & Shell Scripting<br />
+        &nbsp;&nbsp;•🤖<b>Automation:</b> Python for Security<br />
+-------------------------------------------<br />
+        <b>Hobbies:</b><br />
+        &nbsp;&nbsp;•📖<b>Reading LNs:</b><br/>
+        &nbsp;&nbsp;•💻<b>Programming:</b><br />
+        &nbsp;&nbsp;•♟️<b>Chess:</b><br />
+        &nbsp;&nbsp;•📖<b>Reading Manga:</b><br />
+        &nbsp;&nbsp;•📺<b>Watching Anime:</b><br />
+        -------------------------------------------<br />
+        <i>🌑 ✦ "I Am The Record Of Your Struggles, The Evidence Of Your Resistance, And The Reward Of Your Sufferings. I Am Death, I Am Eternal Rest, I Am Terror." ✦ 🌑</i>
       </font>
     </td>
   </tr>
