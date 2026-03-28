@@ -24,18 +24,18 @@
         -------------------------------------------<br />
         <b>Level:</b> 12<br />
         -------------------------------------------<br />
-        <b>Username:</b>AvalonKoji but my close friends call me Avalon<br />
-        <b>WhoamI:</b>CyberSecurity and Linux enthusiast<br />
-        <b>Location:</b>Birmingham, UK <br /
+        <b>Username:</b> AvalonKoji (Avalon)<br />
+        <b>WhoamI:</b> CyberSecurity and Linux enthusiast<br />
+        <b>Location:</b> Birmingham, UK <br />
         <b>Interests:</b><br />
-        &nbsp;&nbsp;• IoT Development (Arduino, RPi)<br />
-        &nbsp;&nbsp;• Web Development (Back-End)<br />
-        &nbsp;&nbsp;• ML/DL (Neural Networks)<br />
-        &nbsp;&nbsp;• DevOps (Infrastructure)<br /><br />
-        <b>Hobbies:</b> Cycling, Programming, Cooking<br />
-        <b>Learning:</b> Docker, K8s, AWS, React<br />
-        <b>Languages:</b> C++, JS, C, Python<br />
-        <b>Fav_Subject:</b> Computer Networks, PCB Design<br />
+        &nbsp;&nbsp;•🔍 <b>Digital Forensics:</b> Incident Response & Data Recovery<br/>
+        &nbsp;&nbsp;• 🛡️ <b>Network Security:</b> Hardening Protocols & Analysis<br />
+        &nbsp;&nbsp;• 🐧 <b>Linux Internals:</b> System Optimization & Shell Scripting<br />
+        &nbsp;&nbsp;• 🤖 <b>Automation:</b> Python for Security & Forensics Tooling<br />
+        <b>Hobbies:</b> Reading LNs, Programming And Chess<br />
+        <b>Learning:</b>Linux And Python<br />
+        <b>Languages:</b><br />
+        <b>Favourite Subjects:</b> Information Technology And Psychology<br />
         -------------------------------------------<br />
         <i>"I Am The Record Of Your Struggles, The Evidence Of Your Resistance, And The Reward Of Your Sufferings. I Am Death, I Am Eternal Rest, I Am Terror."</i>
       </font>
