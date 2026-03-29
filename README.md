@@ -83,5 +83,11 @@
   <hr style="border-top: 1px solid #333; width: 80%;">
   <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
   
-  <img src="https://github.com/user-attachments/assets/e9a60ea4-c5e0-49ee-8b09-30dd940490e1" width="550" style="border-radius:15px; margin: 20px 0;" />
+  <img src="https://github.com/user-attachments/assets/e9a60ea4-c5e0-49ee-8b09-30dd940490e1" 
+       width="400" 
+       height="220" 
+       style="object-fit:cover; border-radius:15px; margin: 20px 0;" />
   
+  <br />
+  <hr style="border-top: 1px solid #333; width: 80%;">
+</div>
