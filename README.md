@@ -20,7 +20,7 @@
     </td>
     <td align="left" valign="top" style="padding-left:25px; border: none;">
       <font face="monospace" size="3">
-       【 !! 】"The System Uses Me, and I Use the System."【 !! 】<br />
+        【 !! 】"The System Uses Me, and I Use the System."【 !! 】<br />
         -------------------------------------------<br />
         <b>Level:</b>🔺12<br />
         -------------------------------------------<br />
@@ -33,7 +33,7 @@
         &nbsp;&nbsp;•🛡️<b>Network Security:</b> Hardening Protocols & Analysis<br />
         &nbsp;&nbsp;•🐧<b>Linux Internals:</b> System Optimization & Shell Scripting<br />
         &nbsp;&nbsp;•🤖<b>Automation:</b> Python for Security<br />
--------------------------------------------<br />
+        -------------------------------------------<br />
         <b>Hobbies:</b><br />
         &nbsp;&nbsp;•📖<b>Reading LNs:</b><br/>
         &nbsp;&nbsp;•💻<b>Programming:</b><br />
@@ -46,3 +46,42 @@
     </td>
   </tr>
 </table>
+
+<br />
+
+<h2 align="center">
+  <img src="https://img.icons8.com/ios-glyphs/60/ffffff/shield.png" width="30"/> 
+  [ 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼 ] 
+  <img src="https://img.icons8.com/ios-glyphs/60/ffffff/search--v1.png" width="30"/>
+</h2>
+
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="60%" valign="top">
+      <p>
+        📗 <b><a href="#">𝓐𝓿𝓪𝓵𝓸𝓷𝓚𝓸𝓳𝓲 / 𝓢𝓱𝓪𝓭𝓸𝔀_𝓢𝓬𝓪𝓷𝓷𝓮𝓻</a></b><br/>
+        <i>&nbsp;&nbsp;&nbsp;&nbsp;Advanced network vulnerability assessment tool.</i>
+      </p>
+      <p>
+        📘 <b><a href="#">𝓐𝓿𝓪𝓵𝓸𝓷𝓚𝓸𝓳𝓲 / 𝓚𝓮𝓻𝓷𝓮𝓵_𝓜𝓸𝓷𝓲𝓽𝓸𝓻</a></b><br/>
+        <i>&nbsp;&nbsp;&nbsp;&nbsp;C++ system hooks for threat detection.</i>
+      </p>
+      <p>
+        📙 <b><a href="#">𝓐𝓿𝓪𝓵𝓸𝓷𝓚𝓸𝓳𝓲 / 𝓕𝓸𝓻𝓮𝓷𝓼𝓲𝓬_𝓣𝓸𝓸𝓵𝓼</a></b><br/>
+        <i>&nbsp;&nbsp;&nbsp;&nbsp;Automated forensic imaging scripts.</i>
+      </p>
+    </td>
+    <td width="40%" align="right" valign="top">
+      <img src="https://github.com/user-attachments/assets/c54d45c4-086a-46d8-ab75-e5766cdc7b22" width="100%" style="border-radius:10px;" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<div align="center">
+  <hr style="border-top: 1px solid #333; width: 80%;">
+  <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+  
+  <img src="https://github.com/user-attachments/assets/e9a60ea4-c5e0-49ee-8b09-30dd940490e1" width="550" style="border-radius:15px; margin: 20px 0;" />
+  
