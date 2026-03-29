@@ -59,16 +59,16 @@
   <tr>
     <td width="60%" valign="top">
       <p>
-        📗 <b><a href="#">𝓐𝓿𝓪𝓵𝓸𝓷𝓚𝓸𝓳𝓲 / 𝓢𝓱𝓪𝓭𝓸𝔀_𝓢𝓬𝓪𝓷𝓷𝓮𝓻</a></b><br/>
-        <i>&nbsp;&nbsp;&nbsp;&nbsp;Advanced network vulnerability assessment tool.</i>
+        📗 <b><a href="#">𝓐𝓿𝓪𝓵𝓸𝓷𝓚𝓸𝓳𝓲 / </a></b><br/>
+        <i>&nbsp;&nbsp;&nbsp;&nbsp;</i>
       </p>
       <p>
-        📘 <b><a href="#">𝓐𝓿𝓪𝓵𝓸𝓷𝓚𝓸𝓳𝓲 / 𝓚𝓮𝓻𝓷𝓮𝓵_𝓜𝓸𝓷𝓲𝓽𝓸𝓻</a></b><br/>
-        <i>&nbsp;&nbsp;&nbsp;&nbsp;C++ system hooks for threat detection.</i>
+        📘 <b><a href="#">𝓐𝓿𝓪𝓵𝓸𝓷𝓚𝓸𝓳𝓲 / </a></b><br/>
+        <i>&nbsp;&nbsp;&nbsp;&nbsp;</i>
       </p>
       <p>
-        📙 <b><a href="#">𝓐𝓿𝓪𝓵𝓸𝓷𝓚𝓸𝓳𝓲 / 𝓕𝓸𝓻𝓮𝓷𝓼𝓲𝓬_𝓣𝓸𝓸𝓵𝓼</a></b><br/>
-        <i>&nbsp;&nbsp;&nbsp;&nbsp;Automated forensic imaging scripts.</i>
+        📙 <b><a href="#">𝓐𝓿𝓪𝓵𝓸𝓷𝓚𝓸𝓳𝓲 / </a></b><br/>
+        <i>&nbsp;&nbsp;&nbsp;</i>
       </p>
     </td>
     <td width="40%" align="right" valign="top">
